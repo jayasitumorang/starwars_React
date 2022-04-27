@@ -1,9 +1,10 @@
 ﻿# starwars_React
- how to run?
  
- -NPM INSTALL
- -NPM RUN START
+ # How To Run?
+
+  - npm install
+  - npm run start
  
- FOR TESTING
+# Hot to test ?
  
- -NPM TEST
+ -npm test
